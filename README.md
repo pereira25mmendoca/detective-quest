@@ -24,4 +24,34 @@ O culpado é o suspeito que:
 2. Aparece em pelo menos um depoimento de testemunha  
 
 ## 📁 Estrutura do Projeto
+src/
+main.py
+structures/
+list.py
+stack.py
+queue.py
+graph.py
+hashtable.py
+tests/
+
+
+## 🚀 Execução
+
+Para executar o sistema:
+
+
+
+python src/main.py
+
+
+## ✔ Entrega
+
+A entrega consiste em enviar **apenas o link do GitHub**, contendo:
+
+- O README
+- A estrutura de pastas
+- Código-fonte em Python
+
+## ✨ Autor
+Detective Quest — Trabalho acadêmico de Estrutura de Dados
 
